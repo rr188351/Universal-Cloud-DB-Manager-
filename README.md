@@ -42,5 +42,4 @@ Watch the full cinematic walkthrough on YouTube:
 
 ### 🔧 Run Directly
 ```bash
-cd build/exe.win-amd64-3.8
-./RMACEUNIVERSAL.exe
+cd ./RMACEUNIVERSAL.exe
