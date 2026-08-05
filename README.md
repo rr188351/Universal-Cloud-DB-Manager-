@@ -17,7 +17,7 @@ Download it From Release Section
 
 
 A complete MySQL database management module with an intuitive graphical interface.
-
+Video link-https://youtu.be/hvhZXMWTOo0
 
 
 ### Features
